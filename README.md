@@ -1,1 +1,1 @@
-# samsung
+# gitrepo
